@@ -9,11 +9,13 @@ This will be incredibly easy and I have all the faith that I can do this effecti
 ![iGotThis](./thePlan/img/iGotThis.png)
 
 # Thing To Start 🤯
+
+
 ## Solidity Contract Basics
 
-## Understanding EVM Basics
+[CryptoZombies](https://cryptozombies.io/en) has so far been an excellent way to learn. I'm a sucker for anything that gives me the sweet dopamine bump of a gold star and saying I'm super smart after each lesson. Take notes Udemy.
 
-## Setting Up Rust Environment
+## Understanding EVM Basics
 
 ## Rust implementation of EVM Core
 
@@ -26,6 +28,9 @@ This will be incredibly easy and I have all the faith that I can do this effecti
 # Things To Understand 🧠
 
 # Things Done Poorly ✅
+## Setting Up Rust Environment
+
+So, I did have Rust setup but then realized I broke the path when I fancied up my .zshrc so I started over. Steps are on [Do-I-Have-Rust](https://github.com/HeuristicHiker/rust-evm-simulator/wiki/Do-I-have-Rust%3F).
 
 # FAQTIAM
 
@@ -34,7 +39,7 @@ This will be incredibly easy and I have all the faith that I can do this effecti
 - **Who is this for?**
     - Me.
 - **Why did you create this project?**
-    - I thought to myself "That would be cool" and here we are
+    - I thought to myself: "That would be cool" and here we are
 - **Why make it public?**
     - There's no "private" in "public shaming for not committing enough to personal projects will hopefully motivate me"
 - **Will this work?**
