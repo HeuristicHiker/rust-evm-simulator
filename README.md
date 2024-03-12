@@ -10,7 +10,6 @@ This will be incredibly easy and I have all the faith that I can do this effecti
 
 # Thing To Start 🤯
 
-
 ## Solidity Contract Basics
 
 [CryptoZombies](https://cryptozombies.io/en) has so far been an excellent way to learn. I'm a sucker for anything that gives me the sweet dopamine bump of a gold star and saying I'm super smart after each lesson. Take notes Udemy.
