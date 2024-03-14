@@ -10,13 +10,7 @@ This will be incredibly easy and I have all the faith that I can do this effecti
 
 # Thing To Start 🤯
 
-## Solidity Contract Basics
-
-[CryptoZombies](https://cryptozombies.io/en) has so far been an excellent way to learn. I'm a sucker for anything that gives me the sweet dopamine bump of a gold star and saying I'm super smart after each lesson. Take notes Udemy.
-
-## Understanding EVM Basics
-
-## Rust implementation of EVM Core
+[Rust Implementation Plan](https://github.com/HeuristicHiker/rust-evm-simulator/wiki/Rust-Implementation-Plan)
 
 ## Handling Solidity Contracts
 
@@ -31,8 +25,17 @@ This will be incredibly easy and I have all the faith that I can do this effecti
 
 So, I did have Rust setup but then realized I broke the path when I fancied up my .zshrc so I started over. Steps are on [Do-I-Have-Rust](https://github.com/HeuristicHiker/rust-evm-simulator/wiki/Do-I-have-Rust%3F).
 
-# FAQTIAM
+## Solidity Contract Basics
 
+## What be contracts is?
+[CryptoZombies](https://cryptozombies.io/en) has so far been an excellent way to learn. I'm a sucker for anything that gives me the sweet dopamine bump of a gold star and saying I'm super smart after each lesson. Take notes Udemy.
+
+### Writing first contract to make a transfer between wallets
+I've also setup a really really setupid contract. I'll be using truffle/ Ganache but just to get to a place where I can say
+
+![contractSandbox](./thePlan/img/contractSandbox.png)
+
+# FAQTIAM
 - **What does FAQTIAM mean?**
     - Frequently asked questions that I ask myself
 - **Who is this for?**
