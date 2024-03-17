@@ -3,9 +3,12 @@ struct Wallet {
     eth_balance: f32
 }
 
-fn get_wallet_details(wallet: &Wallet) -> (&str, f32) {
+fn get_wallet_details(wallet: &Wallet, example: String) -> (&str, f32) {
     // takes a wallet which has a string and f32
     // returns the owner and balance
+
+    // TODO Still need to investigate what additional details are traditionally included in transactions
+    // TODO look into & descriptor for parameters
     (&wallet.owner, wallet.eth_balance)
 }
 
